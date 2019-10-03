@@ -1558,6 +1558,51 @@ body {
 .cid-rwNNtsthA2 .mbr-section-title {
   color: #ffffff;
 }
+.cid-1PxkGc3cNh {
+  background-color: #e9e9e9;
+  text-align: center;
+}
+.cid-rDRznygGwO {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rDRznygGwO h3 {
+  font-weight: 300;
+}
+.cid-rDRznygGwO .card-img {
+  width: initial;
+}
+.cid-rDRznygGwO .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-rDRznygGwO .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  min-height: 100%;
+}
+.cid-rDRznygGwO .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rDRznygGwO .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rDRznygGwO .mbr-text {
+  color: #767676;
+}
+.cid-rDRznygGwO .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
+}
+.cid-rDRznygGwO .mbr-al-i-c {
+  align-items: center;
+}
 .cid-rCmBFZbz7M {
   padding-top: 60px;
   padding-bottom: 120px;
@@ -1602,58 +1647,6 @@ body {
   .cid-rCmBFZbz7M .btn {
     font-size: 20px !important;
   }
-}
-.cid-rCmHzDbRfE {
-  padding-top: 105px;
-  padding-bottom: 120px;
-  background-color: #232323;
-}
-.cid-rCmHzDbRfE .socicon-bg-facebook {
-  background: #3e5b98;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .socicon-bg-twitter {
-  background: #4da7de;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .socicon-bg-googleplus {
-  background: #dd4b39;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .socicon-bg-vkontakte {
-  background: #5a7fa6;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .socicon-bg-odnoklassniki {
-  background: #f48420;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .socicon-bg-pinterest {
-  background: #c92619;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .socicon-bg-mail {
-  background: #134785;
-  color: #ffffff;
-}
-.cid-rCmHzDbRfE .btn-social {
-  border: none !important;
-}
-.cid-rCmHzDbRfE [class^="socicon-"]:before,
-.cid-rCmHzDbRfE [class*=" socicon-"]:before {
-  line-height: 44px;
-}
-@media (max-width: 767px) {
-  .cid-rCmHzDbRfE .btn {
-    font-size: 20px !important;
-  }
-}
-.cid-rCmHzDbRfE .mbr-section-title {
-  color: #ffffff;
-}
-.cid-1PxkGc3cNh {
-  background-color: #e9e9e9;
-  text-align: center;
 }
 .cid-rCrtRWD3hM {
   padding-top: 15px;
