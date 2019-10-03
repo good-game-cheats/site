@@ -1638,31 +1638,6 @@ body {
 .cid-rCrtRWD3hM .mbr-section-title {
   color: #ffffff;
 }
-.cid-rDS31DyAZG {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-color: #232323;
-}
-.cid-rDS31DyAZG h4 {
-  text-align: left;
-  font-weight: 500;
-}
-.cid-rDS31DyAZG p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rDS31DyAZG .card-img {
-  text-align: left;
-}
-.cid-rDS31DyAZG .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-.cid-rDS31DyAZG .card-title,
-.cid-rDS31DyAZG .card-img {
-  color: #ffffff;
-  text-align: center;
-}
 .cid-rCrmduICd3 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1693,6 +1668,31 @@ body {
 }
 .cid-rCrmduICd3 H4 {
   color: #ffffff;
+}
+.cid-rDS31DyAZG {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-rDS31DyAZG h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rDS31DyAZG p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rDS31DyAZG .card-img {
+  text-align: left;
+}
+.cid-rDS31DyAZG .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rDS31DyAZG .card-title,
+.cid-rDS31DyAZG .card-img {
+  color: #ffffff;
+  text-align: center;
 }
 .cid-rDRI6FbwNW {
   padding-top: 15px;
@@ -1811,11 +1811,36 @@ body {
   text-align: center;
 }
 .cid-rDRIgVgjG1 .mbr-section-subtitle {
-  color: #ff3366;
+  color: #232323;
   text-align: center;
 }
 .cid-rDRIgVgjG1 .mbr-text,
 .cid-rDRIgVgjG1 .mbr-section-btn {
+  text-align: center;
+}
+.cid-rDS7IjXDul {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-rDS7IjXDul h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rDS7IjXDul p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rDS7IjXDul .card-img {
+  text-align: left;
+}
+.cid-rDS7IjXDul .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rDS7IjXDul .card-title,
+.cid-rDS7IjXDul .card-img {
+  color: #ffffff;
   text-align: center;
 }
 .cid-rDRSpcOC1O {
@@ -2014,4 +2039,29 @@ body {
 }
 .cid-rDRUhjl32H H2 {
   color: #ffffff;
+}
+.cid-rDS7MGLGjh {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-rDS7MGLGjh h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rDS7MGLGjh p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rDS7MGLGjh .card-img {
+  text-align: left;
+}
+.cid-rDS7MGLGjh .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rDS7MGLGjh .card-title,
+.cid-rDS7MGLGjh .card-img {
+  color: #ffffff;
+  text-align: center;
 }
